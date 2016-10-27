@@ -1,7 +1,7 @@
 {
-  "name": "react-bootstrap-webpack-starter",
+  "name": "best-react-bs",
   "version": "0.4.0",
-  "description": "react js + bootstrap + webpack starter",
+  "description": "best-react-bs",
   "main": "src/index.js",
   "scripts": {
     "dev": "NODE_ENV=dev webpack",
@@ -24,7 +24,7 @@
     "hot-reload",
     "hot reload"
   ],
-  "author": "Erwan DATIN (MacKentoch)",
+  "author": "vasi",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.3.6",
